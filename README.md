@@ -1,4 +1,4 @@
-# CV-Synth: Your AI Career Co-pilot
+# ATS-Synth: Your AI Career Co-pilot
 
 **Analyze your resume against any job description, get an ATS-friendly score, and receive AI-powered feedback to land your next interview.**
 
